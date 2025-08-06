@@ -1,0 +1,7 @@
+openai-whisper (stt)
+torch ( for whisper-> stt)
+gTTS (Google online-> tts)
+playsound ( for Wave-file)
+pyttsx3 (for tts offline)
+requests
+wikipedia
