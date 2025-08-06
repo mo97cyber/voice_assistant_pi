@@ -9,7 +9,7 @@ It uses **Whisper by OpenAI** for speech recognition, runs locally over **Wi-Fi*
 - or simply speak a sentence aloud
 - and get an answer from Chatgpt as a voice assistant
 
-💡 **Technologies**: Python · Whisper · pyttsx3 (Text-to-Speech) · Modular Design · Raspberry Pi ( -> not fully modified yet)
+💡 **Technologies**: Python · Whisper · pyttsx3/gtts (Text-to-Speech) · Modular Design · Raspberry Pi ( -> not fully modified yet)
 
 🎯 **Future-Goal**: To build a privacy-friendly, locally running voice assistant that is modular, expandable, and helpful in everyday situations.
 
