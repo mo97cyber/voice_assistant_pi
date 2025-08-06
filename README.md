@@ -13,6 +13,6 @@ It uses **Whisper by OpenAI** for speech recognition, runs locally over **Wi-Fi*
 
 🎯 **Future-Goal**: To build a privacy-friendly, locally running voice assistant that is modular, expandable, and helpful in everyday situations.
 
-🚧 **Status**: The assistant currently runs locally via microphone and Whisper over Wi-Fi. Some features like wake word detection, user guidance, and Raspberry Pi optimization are still in development.
+🚧 **Status**: The assistant currently runs locally via microphone/Speaker and Whisper over Wi-Fi. Some features like wake word detection, user guidance, and Raspberry Pi optimization are still in development.
 
 📂 This project is open source – feedback, ideas, or contributions are very welcome!
